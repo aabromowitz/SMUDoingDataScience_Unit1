@@ -1,2 +1,5 @@
-# SMUDoingDataScience_Unit1
-Following along with the Getting Sta-R-ted lesson on Git Hub
+# Unit-1
+## Subheader
+One
+Two
+Three
